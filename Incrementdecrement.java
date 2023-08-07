@@ -1,4 +1,4 @@
-class Test{
+class Incrementdecrement{
     public static void main(String[] args){
         //int x=++5;-we can apply incr/decr for variables but not constants
        /*int x=10;
